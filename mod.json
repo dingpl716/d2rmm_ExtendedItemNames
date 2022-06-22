@@ -1,0 +1,9 @@
+{
+  "name": "Extended Item Name",
+  "description": "Show more info on item names.",
+  "author": "dingpl",
+  "website": "https://github.com/dingpl716/d2rmm_ExtendedItemNames",
+  "version": "1.0",
+  "config": [
+  ]
+}
